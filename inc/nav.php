@@ -22,7 +22,16 @@
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
           <!-- Messages: style can be found in dropdown.less-->
-        
+        <li class="user user-menu">
+            <a href="index.php">
+              <span class="hidden-xs"> Add User</span>
+            </a>
+          </li>
+          <li class="user user-menu">
+            <a href="view_record.php">
+              <span class="hidden-xs"> View User</span>
+            </a>
+          </li>
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
